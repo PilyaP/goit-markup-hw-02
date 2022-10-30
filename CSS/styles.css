@@ -178,6 +178,7 @@ font-size: 16px;
 line-height: 0.6153;
 letter-spacing: 0.03em;
 background: #F5F4FA;
+border: none;
 }
 .button-portfolio:hover
 {
