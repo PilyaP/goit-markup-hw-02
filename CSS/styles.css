@@ -1,0 +1,198 @@
+li {
+    list-style: none;
+    
+}
+
+a {
+
+text-decoration: none;
+
+}
+.nav-link
+{
+color: #2196F3;
+}
+.nav-link-st
+{
+color: #2196F3;
+}
+
+.Web
+{
+font-family: 'Raleway';
+font-weight: 700;
+font-size: 26px;
+line-height: 0.8387;
+letter-spacing: 0.03em;
+color: #2196F3;
+
+}
+.Studio {
+ font-family: 'Raleway';
+
+font-weight: 700;
+font-size: 26px;
+line-height: 0.8387;
+letter-spacing: 0.03em;
+color: #000000;
+}
+.header
+{
+font-weight: 500;
+font-size: 14px;
+line-height: 0.875;
+letter-spacing: 0.02em;
+}
+
+.Studio-white {
+font-family: 'Raleway';
+font-weight: 700;
+font-size: 26px;
+line-height: 0.8387;
+letter-spacing: 0.03em;
+color: #ffffff;
+}
+
+.footer-fon
+{
+background-color: #2F303A;
+}
+body{
+    font-family: 'Roboto';
+    color: #212121;
+    
+}
+.header-text
+{
+font-weight: 500;
+font-size: 14px;
+line-height: 0.8531;
+letter-spacing: 0.02em;
+}
+.contacts
+{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 0.8531;
+    letter-spacing: 0.02em;
+}
+.tel-gray
+{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 0.8531;
+    letter-spacing: 0.02em;
+    color: #757575;  
+}
+.title-h1 {
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 0.7333; 
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+}
+.color-section
+{
+    background: #2F303A;
+}
+.button-section1
+{
+font-weight: 700;
+font-size: 16px;
+line-height: 2.5333;
+letter-spacing: 0.06em;
+cursor: pointer;
+background: #2196F3;
+color: #FFFFFF;
+}
+.section2-title
+{
+font-weight: 700;
+font-size: 14px;
+line-height: 0.875;
+letter-spacing: 0.03em
+}
+.section2-title-p
+{
+font-size: 14px;
+line-height: 0.5833;
+letter-spacing: 0.03em;
+color: #757575;
+}
+.section2-title-h3
+{
+font-weight: 700;
+font-size: 14px;
+line-height: 0.8531;
+letter-spacing: 0.03em;
+}
+.section-title-text
+{
+font-weight: 700;
+font-size: 36px;
+line-height: 0.8751;
+letter-spacing: 0.03em;
+}
+.section-name
+{
+font-weight: 500;
+font-size: 16px;
+line-height: 0.8421;
+letter-spacing: 0.03em;
+}
+.section-name-p
+{
+font-size: 16px;
+line-height: 0.8421;
+letter-spacing: 0.03em;
+color: #757575;
+}
+
+.footer-google
+{
+    font-size: 14px;
+line-height: 0.5833;
+letter-spacing: 0.03em;
+color: #FFFFFF;
+}
+.footer-text
+{
+        font-size: 14px;
+        line-height: 0.5833;
+        letter-spacing: 0.03em;
+        color: rgba(255, 255, 255, 0.6);
+}
+.profession
+{
+font-size: 16px;
+line-height: 0.8421;
+letter-spacing: 0.03em;
+color: #757575;
+}
+.button-portfolio {
+cursor: pointer;
+font-weight: 500;
+font-size: 16px;
+line-height: 0.6153;
+letter-spacing: 0.03em;
+background: #F5F4FA;
+}
+.button-portfolio:hover
+{
+background-color: #2196F3;
+color: #FFFFFF;
+}
+.portfolio-title {
+font-weight: 700;
+font-size: 18px;
+line-height: 0.5;
+letter-spacing: 0.06em;
+}
+.portfolio-paragraf {
+    font-size: 16px;
+    line-height: 0.5333;
+    letter-spacing: 0.03em;
+    color: #757575; 
+}
